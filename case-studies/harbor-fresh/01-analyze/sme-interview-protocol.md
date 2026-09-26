@@ -3,7 +3,7 @@ title: "SME Interview Protocol"
 case: "Harbor Fresh"
 phase: "01-Analyze"
 doc_version: "0.1"
-status: "Draft: author review pending"
+status: "Draft"
 updated: "2026-09-26"
 tags: [sme-facilitation, interview-protocol, content-gathering]
 ---

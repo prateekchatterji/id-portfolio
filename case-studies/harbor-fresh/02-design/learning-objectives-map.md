@@ -3,7 +3,7 @@ title: "Learning Objectives Map"
 case: "Harbor Fresh"
 phase: "02-design"
 doc_version: "0.1"
-status: "Draft: author review pending"
+status: "Draft"
 updated: "2026-09-26"
 tags: [learning-objectives, alignment, blooms-taxonomy, traceability]
 ---

@@ -3,7 +3,7 @@ title: "Project Brief"
 case: "Harbor Fresh"
 phase: "01-Analyze"
 doc_version: "0.1"
-status: "Draft: author review pending"
+status: "Draft"
 updated: "2026-09-26"
 tags: [project-brief, business-problem, success-metrics, scope]
 ---
