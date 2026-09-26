@@ -2,8 +2,8 @@
 title: "Assessment Item: Harbor Fresh"
 case: "Harbor Fresh"
 phase: "02-Design"
-doc_version: "0.2"
-status: "Revised after SME review"
+doc_version: "0.3"
+status: "Revised after Round 1 tryout"
 updated: "2026-09-26"
 tags: [assessment-item, negation-test, answer-rationale, item-review]
 ---
@@ -23,7 +23,7 @@ Which of the following are assumptions on which the regional director's argument
 - (E) Fresh produce is the only product category for which the forecasting method is useful.
 - (F) Eastern managers were using the course's forecasting method for the weekly produce orders placed during the two quarters in which spoilage fell.
 - (G) A competing grocery chain in the same region, which offered no such course, saw its spoilage stay level over the same period.
-- (H) Orders placed using the method matched actual customer demand more closely than the managers' earlier orders had.
+- (H) Orders placed using the method matched customer demand more closely than orders placed before the course.
 
 ## The logic chain
 Course → managers learn forecasting → managers use it for weekly orders → orders reach the shelf unchanged → orders match demand → less produce discarded
@@ -49,3 +49,4 @@ Course → managers learn forecasting → managers use it for weekly orders → 
 |---|---|---|---|---|
 | 0.1 | 2026-09-26 | Initial draft | — | ID Lead |
 | 0.2 | 2026-09-26 | F ("reduction did not begin before managers completed the course") had an escape route: managers partway through the course could already forecast better. | F now tests whether the method was *in use* during the measured period. Added weekly ordering to the argument to close a timing loophole. D rewritten to guard a separate arrow (system override), removing overlap with the new F. | SME review (author) |
+| 0.3 | 2026-09-26 | Round 1 tryout: H felt wordy (TC-004). Challenges to A, C and G tested; none survived the negation test (see `../05-evaluate/pilot-results.md`). | H reworded. Key unchanged. | Round 1 testers |

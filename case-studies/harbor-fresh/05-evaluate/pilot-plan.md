@@ -14,7 +14,7 @@ Two rounds with 3–5 testers. Round 1 tests the assessment item before the buil
 
 ## Data handling
 - Testers give consent in the form's first question and are told how their answers will be used.
-- Each tester gets a code (T1–T5). Names and emails never appear in this repo.
+- Each tester gets a code (TC-001 to TC-005). Names and emails never appear in this repo.
 - Raw responses stay in Google Sheets. Only anonymized summaries are committed, to `pilot-results.md` and `revision-log.md`.
 
 ## Round 1: Item tryout (now; about 10 minutes per tester)
