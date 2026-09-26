@@ -1,0 +1,13 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+# Drafts and source files not for publication
+_private/
+*.cptx
+*.mp4
+# Office lock files
+~$*
+# Pilot raw data (keep in Google Sheets; commit anonymized summaries only)
+*responses*.csv
+*responses*.xlsx
