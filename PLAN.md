@@ -4,7 +4,7 @@ case: "Harbor Fresh"
 course_title: "Mind the Gap: Testing the Hidden Assumptions in Business Arguments"
 repo: "id-portfolio"
 doc_version: "1.1"
-case_version: "0.3.0"
+case_version: "0.5.0"
 status: "Active: Sprint 1"
 owner: "Prateek Chatterji"
 created: "2026-09-26"
@@ -61,7 +61,7 @@ id-portfolio/                          # github.com/prateekchatterji/id-portfoli
         │   ├── learning-objectives-map.md                               [v1.0]
         │   ├── conceptual-design.md                                     [v1.0]
         │   ├── assessment-strategy.md                                   [v1.0]
-        │   └── storyboard.pdf  (+ storyboard.pptx source)               [v1.0]
+        │   └── storyboard.md   # screen-by-screen; renders on GitHub      [v1.0]
         ├── 03-develop/
         │   ├── build-plan.md                                            [v1.0]
         │   ├── style-guide.md                                           [v1.1]
@@ -91,7 +91,9 @@ id-portfolio/                          # github.com/prateekchatterji/id-portfoli
 | Version | Contents | Target date |
 |---|---|---|
 | v0.2.0 | Analyze drafts; revised assessment item | 2026-09-26 |
-| v0.3.0 | Licensing, scaffold script, pilot plan, repo conventions (this release) | 2026-09-26 |
+| v0.3.0 | Licensing, scaffold script, pilot plan, repo conventions | 2026-09-26 |
+| v0.4.0 | Round 1 item-tryout results; revision log; item v0.3 | 2026-09-26 |
+| v0.5.0 | Design: objectives map, conceptual design, assessment strategy, storyboard (this release) | 2026-09-26 |
 | **v1.0.0** | **Public:** README landing page, full Analyze and Design, storyboard, Round 1 item-tryout results, plans for Develop/Implement/Evaluate | **2026-09-28** |
 | v1.1.0 | Rise module built and hosted; job aid; style guide; QA checklist | 2026-10-03 |
 | v1.2.0 | Round 2 module pilot; results; revisions; module v1.1 | 2026-10-06 |
@@ -118,7 +120,7 @@ Start the Captivate trial (new Captivate, not Classic) → 2–3 min simulation 
 
 | Tool | Use | Note |
 |---|---|---|
-| PowerPoint | Storyboard | Export to PDF for the repo |
+| Markdown (GitHub) | Storyboard | Renders natively on GitHub; a visual PowerPoint version is optional |
 | Google Forms and Sheets | Pilot feedback | Raw responses stay in Sheets; only anonymized summaries are committed |
 | Articulate Rise 360 | Main module | 30-day trial; export Web Only before it ends |
 | Adobe Captivate (new) | Software simulation | 30-day trial; trial output may expire, so record a video |
@@ -151,4 +153,5 @@ Start the Captivate trial (new Captivate, not Classic) → 2–3 min simulation 
 | 2026-09-26 | Options D and F rewritten (item v0.2) | Author's review found an escape route in F (partial course completion) |
 | 2026-09-26 | Two pilot rounds: item tryout now, module pilot after build | Real evaluation data at v1.0 without waiting for the build |
 | 2026-09-26 | Dual license | Protects learning content from reuse while keeping code open |
+| 2026-09-26 | Storyboard in Markdown, not PowerPoint | GitHub is the showcase and renders Markdown directly; no download needed |
 | 2026-09-26 | Custom domain deferred | GitHub repo is the primary showcase; Pages hosts the live module |

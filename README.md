@@ -8,10 +8,10 @@ A 15–20 minute self-paced module that teaches early-career analysts to find an
 | Phase | Contents | Status |
 |---|---|---|
 | [01 Analyze](case-studies/harbor-fresh/01-analyze/) | Project brief, needs and audience analysis, SME interview protocol, RACI, source content audit | Draft |
-| [02 Design](case-studies/harbor-fresh/02-design/) | Assessment item; objectives, conceptual design and storyboard to follow | In progress |
+| [02 Design](case-studies/harbor-fresh/02-design/) | Learning objectives map, conceptual design, assessment strategy, [storyboard](case-studies/harbor-fresh/02-design/storyboard.md), assessment item | Draft |
 | 03 Develop | Articulate Rise module, job aid, Adobe Captivate simulation | Planned |
 | 04 Implement | Rollout plan | Planned |
-| [05 Evaluate](case-studies/harbor-fresh/05-evaluate/) | Pilot plan (two rounds); results and revision log to follow | In progress |
+| [05 Evaluate](case-studies/harbor-fresh/05-evaluate/) | Pilot plan; Round 1 item-tryout results; revision log | Round 1 complete |
 
 *Sample project for a hypothetical client. Figures marked "illustrative" are not real data.*
 

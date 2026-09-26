@@ -1,0 +1,24 @@
+---
+title: "Revision Log"
+case: "Harbor Fresh"
+phase: "05-evaluate"
+doc_version: "0.1"
+status: "Active"
+updated: "2026-09-26"
+tags: [revisions, change-control, item-review]
+---
+
+# Revision Log
+
+Types: content, usability, technical, accessibility. Severity: Critical, Major, Minor. Release rule: all Critical and Major issues are fixed before the next release.
+
+| ID | Date | Round | Source | Screen / item | Type | Severity | Issue | Change made | Status | Fixed in |
+|---|---|---|---|---|---|---|---|---|---|---|
+| R-01 | 2026-09-26 | Pre-pilot review | Author (SME review) | Item, option F | Content | Critical | F had an escape route: managers partway through the course could already forecast better, so F was not required. | F rewritten to test whether the method was in use during the measured period; weekly ordering added to the argument; D rewritten to guard a separate link. | Fixed | Item v0.2 |
+| R-02 | 2026-09-26 | R1 | TC-004 | Item, option H | Content | Minor | Wording of H felt wordy ("than the managers' earlier orders had"). | Reworded to "…more closely than orders placed before the course." | Fixed | Item v0.3 |
+| R-03 | 2026-09-26 | R1 | TC-002 | Item, option G | Content | Minor | G read as a valid control-group defense. | None to the item: negation leaves an escape route, and G is the intended "different population" trap. Feedback for G in the module will explain why a competitor's data doesn't settle the claim. | Won't fix (item); addressed in feedback | — |
+| R-04 | 2026-09-26 | R1 | TC-003 | Item, option A | Content | Minor | A seen as defensible (display cases could also cut spoilage). | None to the item: A is the intended near miss. The module's "race the negations" screen uses A vs. D to teach exactly this. | Won't fix (item); addressed in instruction | — |
+| R-05 | 2026-09-26 | R1 | TC-004 | Item, option C | Content | Minor | C seen as defensible (businesses care about margins). | None: the conclusion concerns spoilage, not profit. Scope errors covered in pass-1 feedback. | Won't fix | — |
+| R-06 | 2026-09-26 | R1 | Item analysis | Module design | Content | Major | Testers with little prior exposure found F but missed D and H, the less visible links. | Design change: learners write out every arrow of the chain before judging options. Built into the storyboard (S04 "Build the chain") and objective EO2. | Fixed (design) | Design v0.1 |
+| R-07 | 2026-09-26 | R1 | TC-004 | Module design | Content | Major | Course ratings (B) were read as proof that managers used the method. | Built into the storyboard (S05 callout; S09 option C) and objective EO5. | Fixed (design) | Design v0.1 |
+| R-08 | 2026-09-26 | R1 | Item analysis | Item, option E | Content | Minor | E attracted no testers, so it does no work as a distractor. | Keep for now (N = 5); review after Round 2. | Deferred | — |
