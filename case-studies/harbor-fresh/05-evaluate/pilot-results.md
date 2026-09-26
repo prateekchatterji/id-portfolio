@@ -18,6 +18,8 @@ tags: [pilot, item-analysis, field-trial, formative-evaluation]
 
 ### Testers
 
+**Recruitment:** a convenience sample of five of the author's test-prep clients from five organizations. TC-002 had just begun studying with the author; the other four had attempted the exam or a mock test before their classes. **Limitations:** testers knew the author, and four had been undergoing lessons in critical reasoning by him, possibly including this method, so results may overstate how a typical analyst would perform. None were early-career analysts, the target audience. Round 2 should include at least two testers from the target profile.
+
 | Code   | Role                  | Experience | Prior critical-reasoning exposure | Device |
 | ------ | --------------------- | ---------- | --------------------------------- | ------ |
 | TC-001 | Data Analyst          | 3 yrs      | A lot                             | Laptop |
