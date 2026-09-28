@@ -50,7 +50,7 @@ The core teaching method comes from my own critical-reasoning classes. A 24-minu
 
 ## About me
 
-Learning designer and educator with 14 years across training delivery, instructional design and team leadership. Trained 1,700+ IT professionals at TCS (CLP Faculty Award, top 5% of 1,000 trainers), then designed and taught GMAT Verbal and Critical Reasoning programs across 6–8 weekly cohorts (2018–2022), and led program design for 60+ admissions candidates a year (2022–2026). ISB PGP; Six Sigma Green Belt.
+Learning designer and educator with 14 years across training delivery, instructional design and team leadership. Trained 1,700+ IT professionals at TCS (CLP Faculty Award, top 5% of 1,000 trainers). Later designed and taught GMAT Verbal and Critical Reasoning programs across 6–8 weekly cohorts (2018–2022), and led program design for 60+ admissions candidates a year (2022–2026). ISB PGP; Six Sigma Green Belt.
 
 [LinkedIn](https://linkedin.com/in/prateekchatterji) · [Other work: fireflies-kb](https://github.com/prateekchatterji/fireflies-kb)
 
