@@ -2,11 +2,12 @@
 title: "Storyboard"
 case: "Harbor Fresh"
 phase: "02-design"
-doc_version: "1.0"
-status: "Reviewed"
-updated: "2026-09-26"
+doc_version: "1.1"
+status: "Rise-ready"
+updated: "2026-10-07"
 build_tool: "Articulate Rise 360"
 screens: 11
+quiz_items: 6
 tags: [storyboard, articulate-rise, interaction-design, feedback]
 ---
 
@@ -20,6 +21,30 @@ Each screen lists the Rise block, the objective it serves, the on-screen text, t
 - The Harbor Fresh argument is repeated at the top of every screen where learners judge options (S05–S08), so they never have to scroll back.
 - Use the item text from `assessment-item-harbor-fresh.md` (v0.3) exactly.
 - Where Rise cannot show separate feedback for each option, put the explanation on the following screen.
+- Turn **off** answer shuffling in S02, S09 and S10, because their feedback refers to option letters. Quiz feedback is written without letters, so shuffling can stay on there.
+- Course navigation: **restricted**. Learners must complete each interactive block before the next Continue button unlocks.
+
+## Course map: lessons, objectives and blocks
+
+| Lesson | Screens | Objectives | Rise blocks | Min |
+| --- | --- | --- | --- | --- |
+| 1 Start | S01–S02 | Orientation; activation (EO4) | Statement, list; knowledge check (multiple response) | 3 |
+| 2 Take the argument apart | S03–S04 | EO1, EO2 | Labeled graphic; process | 2.5 |
+| 3 Test the options | S05–S08 | EO3, EO4, EO5 | Sorting activity; flashcards; scenario; text and table | 5.5 |
+| 4 Practice | S09–S10 | EO2–EO6 | Accordion; knowledge check (multiple response); knowledge check (multiple choice) | 3.5 |
+| 5 Close | S11 | Integration | List; attachment (job aid) | 1 |
+| Quiz | Q1–Q6 | EO2–EO6 | Quiz lesson: 2 multiple response, 4 multiple choice | 4 |
+
+## Feedback inventory: every check and its feedback
+
+| Check | Type | Feedback |
+| --- | --- | --- |
+| S02 Try it first | Knowledge check, multiple response | Neutral for both outcomes; answer revealed on S08 |
+| S05 Sort the options | Sorting activity | Rise marks each card; explanation text block follows the activity |
+| S07 Race the negations | Scenario | A separate response for each choice; the wrong choice loops back |
+| S09 Meridian Bank | Knowledge check, multiple response | Correct and incorrect messages, each explaining the negation |
+| S10 Stakeholder question | Knowledge check, multiple choice | Correct and incorrect messages |
+| Q1–Q6 | Quiz lesson | Correct and incorrect messages for every item (see Final assessment) |
 
 ---
 
@@ -156,7 +181,11 @@ Each screen lists the Rise block, the objective it serves, the on-screen text, t
 | G: Competitor's spoilage stayed level            | Hold for testing     |
 | H: Orders matched demand more closely            | Hold for testing     |
 
-**Callout after the activity (from Round 1, R-07)**
+**Feedback (text block directly after the activity)**
+
+> **Outside the argument:** ratings (B), profit (C) and other product categories (E) don't touch the chain from course to less spoilage. **Hold for testing:** A, D, F, G and H all touch a link, so pass 1 can't settle them. That's what the negation test is for.
+
+**Callout after the feedback (from Round 1, R-07)**
 
 > **Liking a course isn't using it.** High ratings (B) tell you people enjoyed the course. They don't tell you anyone changed how they order. Watch for reaction data offered as proof of results.
 
@@ -329,9 +358,108 @@ Each screen lists the Rise block, the objective it serves, the on-screen text, t
 
 ---
 
-## Final assessment
+## Final assessment (quiz lesson)
 
-Rise quiz lesson, 6 items on two new cases, pass at 80%. See `assessment-strategy.md`. The cases are written in the Develop phase.
+**Quiz settings:** passing score 80% (5 of 6); unlimited retakes; shuffle questions and answers on; reveal correct answers after submission; show the passing score on the results screen.
+
+### Case X: Orrin Retail (Q1–Q3)
+
+> In March, Orrin Retail began giving cashiers at its 40 stores a five-minute briefing before each shift. From April to June, customer complaints about promotions being applied incorrectly at checkout fell by 30 percent compared with the same months last year. The regional manager concludes that the briefings caused the drop by helping cashiers apply promotions correctly.
+
+*Chain: briefings held → cashiers attend → briefings cover the current promotions → cashiers apply them correctly → fewer complaints.*
+
+**Q1 (multiple response; EO2, EO3, EO5).** Which of the following are assumptions on which the regional manager's argument depends? *Select all that apply.*
+
+- (A) The briefings covered the promotions that were running from April to June. **(key)**
+- (B) Orrin did not simplify its promotions this year.
+- (C) Cashiers rated the briefings as useful.
+- (D) Complaints at a competing chain without briefings stayed the same.
+- (E) At least some of the cashiers who handled checkouts from April to June attended the briefings. **(key)**
+- (F) Fewer complaints will improve customer loyalty.
+
+*Correct:* "Right. Both guard a link. If the briefings never covered those promotions, or no cashier at the tills attended them, the briefings can't explain the drop. No way out either time."
+*Incorrect:* "Not quite. The argument needs the briefings to cover the promotions running at the time, and at least some cashiers at the tills to have attended. Simpler promotions would be a second cause, but the briefings could still have helped: a near miss. Ratings are reaction data. A competitor is a different business. Loyalty goes beyond the conclusion."
+
+**Q2 (multiple choice; EO4, EO5).** Which statement strengthens the regional manager's argument but is NOT required by it?
+
+- The briefings covered the promotions running from April to June.
+- Orrin did not simplify its promotions this year. **(correct)**
+- Cashiers rated the briefings as useful.
+- At least some cashiers at the tills attended the briefings.
+
+*Correct:* "Yes. Negate it: Orrin did simplify its promotions. That's a second possible cause, but the briefings could still have helped, so the argument survives. It helps; it isn't needed."
+*Incorrect:* "Race the negations. If the briefings didn't cover the promotions, or nobody at the tills attended, the argument breaks: those are required. Ratings don't strengthen the claim at all. Simpler promotions leave a way out, so that statement only helps."
+
+**Q3 (multiple choice; EO6).** You can ask the regional manager one question. Which best tests the weakest link?
+
+- How did cashiers rate the briefings?
+- Did complaints fall most at the stores where briefing attendance was highest? **(correct)**
+- Did complaints change at competing chains?
+- How long does each briefing take to prepare?
+
+*Correct:* "Yes. If the drop is no bigger where more cashiers attended, the link from briefing to correct checkout is in doubt."
+*Incorrect:* "Look for the question whose answer could break a link. Ratings and preparation time don't touch the chain; competitors are a different population. Comparing stores by attendance tests whether the briefings reached the tills."
+
+### Case Y: Pellam Logistics (Q4–Q6)
+
+> In May, Pellam Logistics installed a route-planning app in its delivery vans. Each driver plans the day's route on the app before leaving the depot. From June to August, fuel spending per delivery fell 12 percent compared with the same months last year. The fleet manager concludes that the app reduced fuel use by giving drivers shorter routes.
+
+*Chain: app installed in the vans → drivers plan routes on it → the planned routes are shorter → drivers follow them → less distance → less fuel per delivery.*
+
+**Q4 (multiple response; EO2, EO3, EO5).** Which of the following are assumptions on which the fleet manager's argument depends? *Select all that apply.*
+
+- (A) Drivers said the app was easy to use.
+- (B) Routes planned with the app were shorter, on average, than the routes drivers used before. **(key)**
+- (C) Fuel prices did not fall between last summer and this summer.
+- (D) Lower fuel spending will let Pellam cut its delivery prices.
+- (E) At least some drivers followed the app's routes once on the road. **(key)**
+- (F) A rival courier without the app saw no change in fuel spending.
+- (G) The app was installed in the vans that made the deliveries counted from June to August. **(key)**
+
+*Correct:* "Right: three links, three assumptions. Negate any of them (routes no shorter, nobody followed them, the app wasn't in those vans) and the app can't explain the saving."
+*Incorrect:* "Not quite. The argument needs the planned routes to be shorter, at least some drivers to follow them, and the app to be in the vans whose deliveries were counted. Falling fuel prices would be a second cause, but the app could still have helped: a near miss. Ease of use is reaction data, a rival courier is a different business, and price cuts go beyond the conclusion."
+
+**Q5 (multiple choice; EO4, EO5).** Which statement strengthens the fleet manager's argument but is NOT required by it?
+
+- Routes planned with the app were shorter than earlier routes.
+- Fuel prices did not fall between last summer and this summer. **(correct)**
+- The app was installed in the vans whose deliveries were counted.
+- At least some drivers followed the app's routes.
+
+*Correct:* "Yes. Negate it: fuel prices did fall. That could explain some of the saving, but the app could still have cut fuel use as well. A way out exists, so it only helps."
+*Incorrect:* "Race the negations. Routes no shorter, app not installed, or no driver following the routes: each breaks the argument. Falling fuel prices leave room for the app to have helped too, so that one only strengthens."
+
+**Q6 (multiple choice; EO6).** You can ask the fleet manager one question. Which best tests the weakest link?
+
+- Do drivers like using the app?
+- Did the distance driven per delivery fall, or only the fuel bill? **(correct)**
+- How did fuel spending change at other couriers?
+- How much did the app cost?
+
+*Correct:* "Yes. If distance per delivery didn't fall, the app didn't shorten the routes actually driven, and something else, such as fuel prices, explains the saving."
+*Incorrect:* "Pick the question whose answer could break a link. Liking the app and its cost don't touch the chain; other couriers are a different population. Distance per delivery tests whether shorter routes were actually driven."
+
+## Appendix A: Job aid copy (one page, attached on S11)
+
+**Assumption Check: before your recommendation goes out**
+
+1. **Write the conclusion** in one sentence.
+2. **Draw the chain** from evidence to conclusion. Mark every link the text doesn't state.
+3. **Pass 1:** cross out anything outside the chain (ratings, other groups, effects beyond the conclusion).
+4. **Pass 2:** negate each remaining statement minimally. No way out = an assumption. A way out = it only helps.
+5. **Name the weakest link** and the one question that would test it. Put both in the memo's assumptions section.
+
+*Watch for:* reaction data offered as proof of results; evidence from a different group; a second cause that only helps.
+
+## Appendix B: Accessibility build checklist
+
+- [ ] Alt text on every image; the S03 graphic's text also appears on screen as text
+- [ ] "Not stated" steps on S04 marked with an icon **and** a word, never color alone
+- [ ] Theme colors meet WCAG AA contrast (4.5:1 for body text)
+- [ ] Every interaction completed with the keyboard alone (Tab, Enter, Space, arrow keys)
+- [ ] Headings in order; no text inside images except the S03 graphic, which is duplicated in text
+- [ ] Tested in a screen reader (NVDA on Windows) for S02, S05 and the quiz
+- [ ] Checked on a phone in portrait mode
 
 ## Timing check
 

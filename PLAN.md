@@ -96,6 +96,7 @@ id-portfolio/                          # github.com/prateekchatterji/id-portfoli
 | v0.5.0 | Design: objectives map, conceptual design, assessment strategy, storyboard | 2026-09-26 |
 | v0.6.0 | Public preview | 2026-09-26 |
 | v0.7.0 | Second case study: True but Not Settled (see its own README) | 2026-10-07 |
+| v0.8.0 | Rise-ready storyboard v1.1, build plan, design rationale | 2026-10-07 |
 | **v1.0.0** | **Public:** README landing page, full Analyze and Design, storyboard, Round 1 item-tryout results, plans for Develop/Implement/Evaluate | **2026-09-28** |
 | v1.1.0 | Rise module built and hosted; job aid; style guide; QA checklist | 2026-10-03 |
 | v1.2.0 | Round 2 module pilot; results; revisions; module v1.1 | 2026-10-06 |

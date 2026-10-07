@@ -2,6 +2,18 @@
 
 Versions follow `MAJOR.MINOR.PATCH`. v1.0.0 is the first public release.
 
+## [0.8.0] - 2026-10-07
+
+### Added
+
+- Mind the Gap: one-page design rationale (audience, needs analysis, ADDIE mapping, accessibility).
+- Build plan for the Articulate Rise build: nine sessions over a 30-day trial, with capture steps (share link, Web Only export, screenshots, walkthrough video).
+
+### Changed
+
+- Storyboard v1.1, Rise-ready: course map with objectives per lesson, feedback inventory, feedback for the S05 sort, full quiz lesson (Q1 to Q6 on two new cases, with feedback), job aid copy and an accessibility build checklist.
+- README: design rationale added to "Start here"; Develop row links the build plan.
+
 ## [0.7.0] - 2026-10-07
 
 ### Added

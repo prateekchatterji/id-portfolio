@@ -4,7 +4,7 @@ Two case studies, each built on ADDIE and each showing a different side of the w
 
 | Case study | In one line | Start here |
 | --- | --- | --- |
-| **[Mind the Gap](case-studies/harbor-fresh/)** | A 20-minute self-paced module that teaches early-career analysts to test the hidden assumptions in business recommendations. A real item tryout changed the design. | [Storyboard](case-studies/harbor-fresh/02-design/storyboard.md) · [Needs analysis](case-studies/harbor-fresh/01-analyze/needs-audience-analysis.md) · [Round 1 results](case-studies/harbor-fresh/05-evaluate/pilot-results.md) |
+| **[Mind the Gap](case-studies/harbor-fresh/)** | A 20-minute self-paced module that teaches early-career analysts to test the hidden assumptions in business recommendations. A real item tryout changed the design. | [Design rationale](case-studies/harbor-fresh/design-rationale.md) · [Storyboard](case-studies/harbor-fresh/02-design/storyboard.md) · [Round 1 results](case-studies/harbor-fresh/05-evaluate/pilot-results.md) |
 | **[True but Not Settled](case-studies/true-not-settled/)** | An option-level diagnosis of one learner's reasoning errors, traced to a single root cause, and a five-unit adaptive pathway with checkpoints, branching and a two-week retention exit. | [Diagnostic analysis](case-studies/true-not-settled/01-analyze/diagnostic-analysis.md) · [Adaptive pathway](case-studies/true-not-settled/02-design/adaptive-pathway.md) · [Metrics and exit](case-studies/true-not-settled/05-evaluate/metrics-and-exit.md) |
 
 _Sample work. Clients are hypothetical and all assessment items are original. Figures marked "illustrative" are not real data; Mind the Gap's pilot results come from real testers._
@@ -35,7 +35,7 @@ The same diagnostic method carries over to corporate system training: see the [t
 | --- | --- | --- |
 | **01 Analyze** | [Project brief](case-studies/harbor-fresh/01-analyze/project-brief.md) · [Needs and audience analysis](case-studies/harbor-fresh/01-analyze/needs-audience-analysis.md) · [SME interview protocol](case-studies/harbor-fresh/01-analyze/sme-interview-protocol.md) · [RACI](case-studies/harbor-fresh/01-analyze/raci.md) · [Source content audit](case-studies/harbor-fresh/01-analyze/source-content-audit.md) | Complete (draft) |
 | **02 Design** | [Learning objectives map](case-studies/harbor-fresh/02-design/learning-objectives-map.md) · [Conceptual design](case-studies/harbor-fresh/02-design/conceptual-design.md) · [Assessment strategy](case-studies/harbor-fresh/02-design/assessment-strategy.md) · [Storyboard](case-studies/harbor-fresh/02-design/storyboard.md) · [Assessment item](case-studies/harbor-fresh/02-design/assessment-item-harbor-fresh.md) | Complete (draft) |
-| **03 Develop** | Articulate Rise module · one-page job aid · style guide · QA checklist | **In progress** (target: Oct 2026) |
+| **03 Develop** | [Build plan](case-studies/harbor-fresh/03-develop/build-plan.md) · Articulate Rise module · one-page job aid | **Building in Rise** (Oct 2026) |
 | **04 Implement** | Rollout plan (SCORM, launch, localization) | Planned |
 | **05 Evaluate** | [Pilot plan](case-studies/harbor-fresh/05-evaluate/pilot-plan.md) · [Round 1 results](case-studies/harbor-fresh/05-evaluate/pilot-results.md) · [Revision log](case-studies/harbor-fresh/05-evaluate/revision-log.md) | Round 1 complete; Round 2 after build |
 
