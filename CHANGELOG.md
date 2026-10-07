@@ -2,6 +2,17 @@
 
 Versions follow `MAJOR.MINOR.PATCH`. v1.0.0 is the first public release.
 
+## [0.7.0] - 2026-10-07
+
+### Added
+
+- Second case study, _True but Not Settled_: option-level diagnostic analysis, a five-unit adaptive remedial pathway (checkpoints, branching, faded scaffolds, contrast pairs), unit specifications, metrics with a two-week retention exit, and a one-page transfer case on SAP invoice posting. All assessment items are original; learner responses are re-created to show the original error pattern.
+
+### Changed
+
+- README rewritten as a two-case landing page with a fourth "How I work" example.
+- README "About me" expanded; TCS figure written as 1,700 to match other career documents.
+
 ## [0.6.0] - 2026-09-26
 
 ### Changed

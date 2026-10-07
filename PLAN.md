@@ -93,7 +93,9 @@ id-portfolio/                          # github.com/prateekchatterji/id-portfoli
 | v0.2.0 | Analyze drafts; revised assessment item | 2026-09-26 |
 | v0.3.0 | Licensing, scaffold script, pilot plan, repo conventions | 2026-09-26 |
 | v0.4.0 | Round 1 item-tryout results; revision log; item v0.3 | 2026-09-26 |
-| v0.5.0 | Design: objectives map, conceptual design, assessment strategy, storyboard (this release) | 2026-09-26 |
+| v0.5.0 | Design: objectives map, conceptual design, assessment strategy, storyboard | 2026-09-26 |
+| v0.6.0 | Public preview | 2026-09-26 |
+| v0.7.0 | Second case study: True but Not Settled (see its own README) | 2026-10-07 |
 | **v1.0.0** | **Public:** README landing page, full Analyze and Design, storyboard, Round 1 item-tryout results, plans for Develop/Implement/Evaluate | **2026-09-28** |
 | v1.1.0 | Rise module built and hosted; job aid; style guide; QA checklist | 2026-10-03 |
 | v1.2.0 | Round 2 module pilot; results; revisions; module v1.1 | 2026-10-06 |
@@ -155,3 +157,4 @@ Start the Captivate trial (new Captivate, not Classic) → 2–3 min simulation 
 | 2026-09-26 | Dual license | Protects learning content from reuse while keeping code open |
 | 2026-09-26 | Storyboard in Markdown, not PowerPoint | GitHub is the showcase and renders Markdown directly; no download needed |
 | 2026-09-26 | Custom domain deferred | GitHub repo is the primary showcase; Pages hosts the live module |
+| 2026-10-07 | Add True but Not Settled as a second, self-contained case study | Shows diagnostic and adaptive design alongside course design; it has its own README, so this plan stays focused on Mind the Gap |

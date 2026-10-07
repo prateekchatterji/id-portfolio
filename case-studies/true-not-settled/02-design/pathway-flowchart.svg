@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1016 940" width="1016" height="940" role="img" aria-labelledby="t d">
+<title id="t">Adaptive remedial pathway</title><desc id="d">Five units, U0 to U4, run in order; each passes to the next when its checkpoint is met. If a checkpoint is not met, the learner is routed as shown on the right. The pathway exits when retention holds after two weeks.</desc>
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M1,1 L9,5 L1,9" fill="none" stroke="#7a7a7a" stroke-width="1.6"/></marker></defs>
+<rect width="1016" height="940" fill="#fbfbfa"/>
+<rect x="34" y="33" width="482" height="90" rx="9" fill="#eeedfc" stroke="#7f77dd" stroke-width="1.2"/>
+<text x="275" y="71" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="21" fill="#3c3489">U0 Entry probe</text>
+<text x="275" y="101" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16.5" fill="#5a52c4">Is the gap numeric-specific?</text>
+<rect x="580" y="33" width="402" height="90" rx="9" fill="#fbebe7" stroke="#c76b52" stroke-width="1.2"/>
+<text x="781" y="71" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="21" fill="#7a2e1a">Skip or redirect</text>
+<text x="781" y="101" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16.5" fill="#9c3d22">Strong → U3; weak overall → review basics</text>
+<line x1="516" y1="78" x2="576" y2="78" stroke="#7a7a7a" stroke-width="1.6" marker-end="url(#a)"/>
+<line x1="275" y1="123" x2="275" y2="174" stroke="#7a7a7a" stroke-width="1.6" marker-end="url(#a)"/>
+<rect x="34" y="178" width="482" height="90" rx="9" fill="#eeedfc" stroke="#7f77dd" stroke-width="1.2"/>
+<text x="275" y="216" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="21" fill="#3c3489">U1 Concepts</text>
+<text x="275" y="246" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16.5" fill="#5a52c4">Two checks + the trigger</text>
+<rect x="580" y="178" width="402" height="90" rx="9" fill="#fbebe7" stroke="#c76b52" stroke-width="1.2"/>
+<text x="781" y="216" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="21" fill="#7a2e1a">Second miss: escalate</text>
+<text x="781" y="246" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16.5" fill="#9c3d22">Full concept review</text>
+<line x1="516" y1="223" x2="576" y2="223" stroke="#7a7a7a" stroke-width="1.6" marker-end="url(#a)"/>
+<line x1="275" y1="268" x2="275" y2="319" stroke="#7a7a7a" stroke-width="1.6" marker-end="url(#a)"/>
+<rect x="34" y="323" width="482" height="90" rx="9" fill="#eeedfc" stroke="#7f77dd" stroke-width="1.2"/>
+<text x="275" y="361" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="21" fill="#3c3489">U2 Labelled application</text>
+<text x="275" y="391" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16.5" fill="#5a52c4">Plus contrast pairs</text>
+<rect x="580" y="323" width="402" height="90" rx="9" fill="#fbebe7" stroke="#c76b52" stroke-width="1.2"/>
+<text x="781" y="361" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="21" fill="#7a2e1a">Gap fails</text>
+<text x="781" y="391" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16.5" fill="#9c3d22">Back to that check in U1</text>
+<line x1="516" y1="368" x2="576" y2="368" stroke="#7a7a7a" stroke-width="1.6" marker-end="url(#a)"/>
+<line x1="275" y1="413" x2="275" y2="464" stroke="#7a7a7a" stroke-width="1.6" marker-end="url(#a)"/>
+<rect x="34" y="468" width="482" height="90" rx="9" fill="#eeedfc" stroke="#7f77dd" stroke-width="1.2"/>
+<text x="275" y="506" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="21" fill="#3c3489">U3 Unlabelled, mixed, timed</text>
+<text x="275" y="536" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16.5" fill="#5a52c4">Written pre-think faded out</text>
+<rect x="580" y="468" width="402" height="90" rx="9" fill="#fbebe7" stroke="#c76b52" stroke-width="1.2"/>
+<text x="781" y="506" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="21" fill="#7a2e1a">Deployment vs concept gap</text>
+<text x="781" y="536" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16.5" fill="#9c3d22">Passed U2 → repeat U3 with tags</text>
+<line x1="516" y1="513" x2="576" y2="513" stroke="#7a7a7a" stroke-width="1.6" marker-end="url(#a)"/>
+<line x1="275" y1="558" x2="275" y2="609" stroke="#7a7a7a" stroke-width="1.6" marker-end="url(#a)"/>
+<rect x="34" y="613" width="482" height="90" rx="9" fill="#eeedfc" stroke="#7f77dd" stroke-width="1.2"/>
+<text x="275" y="651" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="21" fill="#3c3489">U4 Consolidation</text>
+<text x="275" y="681" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16.5" fill="#5a52c4">Medium, then hard, rolling benchmark</text>
+<rect x="580" y="613" width="402" height="90" rx="9" fill="#fbebe7" stroke="#c76b52" stroke-width="1.2"/>
+<text x="781" y="651" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="21" fill="#7a2e1a">Volatile or flat low</text>
+<text x="781" y="681" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16.5" fill="#9c3d22">Back to U2 or U1</text>
+<line x1="516" y1="658" x2="576" y2="658" stroke="#7a7a7a" stroke-width="1.6" marker-end="url(#a)"/>
+<line x1="275" y1="703" x2="275" y2="754" stroke="#7a7a7a" stroke-width="1.6" marker-end="url(#a)"/>
+<rect x="34" y="758" width="482" height="90" rx="9" fill="#e1f3ec" stroke="#3f9a78" stroke-width="1.2"/>
+<text x="275" y="796" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="21" fill="#0f5a40">Exit</text>
+<text x="275" y="826" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16.5" fill="#1b7a55">Retention holds after 2 weeks</text>
+<text x="34" y="902" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#555">Purple: unit (pass to go down) · Coral: if checkpoint not passed · Teal: pathway exit</text>
+</svg>
